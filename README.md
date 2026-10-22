@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:gswijayarathna@gmail.com"><img src="https://img.shields.io/badge/Email-gswijayarathna@gmail.com-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/githadi-wijayarathna/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 📄 Co-authored research **published at IEEE I2CACIS 2026**
 - 🌱 Currently strengthening my enterprise software skills and learning about **SAP / ABAP**
 - 💼 Open to graduate and junior software engineering roles
-- ⚡ Call me **Githa**
+- ⚡ Recently interested in learning **C#, .NET & ASP.NET**
 
 ---
 
