@@ -15,7 +15,7 @@
 - 📄 Co-authored research **published at IEEE I2CACIS 2026**
 - 🌱 Currently strengthening my enterprise software skills and learning about **SAP / ABAP**
 - 💼 Open to graduate and junior software engineering roles
-- ⚡ Recently interested in learning **C#, .NET & ASP.NET**
+- ⚡ Recently interested in learning **C#, .NET & ASP.NET** and other immerging technologies
 
 ---
 
