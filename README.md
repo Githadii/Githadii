@@ -1,68 +1,69 @@
-<h1 align="center">Hello there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Githadi Wijayarathna</h1>
-<h3 align="center">Passionate and always ready to learn</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=githadii&label=Profile%20views&color=0e75b6&style=flat" alt="githadii" /> </p>
-
-<h3 align="center">About Me</h3>
-
----
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- I'm an IT major undergraduate at SLIIT Sri Lanka
-- 🌱 I’m currently learning **JAVA and MERN**
-- 💬 Ask me about **HTML,CSS and JAVA**
-- 📫 How to reach me **gswijayarathna@gmail.com**
-- ⚡ Fun fact -> **Call me Githa**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-  
-  </td>
-</tr>
-</table>
-
----
-
-<h3 align="center">My Statistics</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Githadii&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Githadii&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Githadii&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
----
-  
-
-<h3 align="center">Connect with me </h3>
-
----
+<h1 align="center">Hi, I'm Githadi Wijayarathna 👋</h1>
+<h3 align="center">Software Engineering Graduate | Full Stack Web & Mobile Developer</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/githadi wijayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="githadi wijayarathna" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/githadi wijayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="githadi wijayarathna" height="50" width="50" /></a>
-<a href="https://fb.com/githadi wijayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="githadi wijayarathna" height="50" width="50" /></a>
-<a href="https://instagram.com/githadi wijayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="githadi wijayarathna" height="50" width="50" /></a>
+  <a href="mailto:gswijayarathna@gmail.com"><img src="https://img.shields.io/badge/Email-gswijayarathna@gmail.com-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+---
 
-<h3 align="center">Languages and Tools</h3>
+## About Me
+
+- 🎓 BSc (Hons.) in Information Technology, specializing in Software Engineering, from **SLIIT** (Second Class Upper)
+- 📱 1+ years building web and mobile apps, including a year as a **React Native Full Stack Intern** at Studentpod (Singapore, remote)
+- 📄 Co-authored research **published at IEEE I2CACIS 2026**
+- 🌱 Currently strengthening my enterprise software skills and learning about **SAP / ABAP**
+- 💼 Open to graduate and junior software engineering roles
+- ⚡ Call me **Githa**
 
 ---
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a></p>
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,fastapi,java,mongodb,postgres,mysql,docker,nginx,git,github,azure,tailwind,vite,postman" alt="Tech stack" />
+</p>
+
+| Area | Technologies |
+|---|---|
+| Frontend | React, React Native, TypeScript, JavaScript, Vite, Tailwind CSS |
+| Backend | Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0 |
+| Databases | MongoDB, PostgreSQL, MySQL |
+| DevOps | Docker, Docker Compose, Nginx, GitHub Actions (CI/CD), SonarCloud |
+| Security | OWASP Top 10, bcrypt, Helmet.js, rate limiting, XSS/CSRF protection |
+| ML | Python, scikit-learn, XGBoost, pandas, Gradio |
+| Languages | JavaScript, TypeScript, Python, Java, C, C++ |
+
+---
+
+## Featured Projects
+
+**🩺 PediTrack: AI-Powered Pediatric Health App** *(Final-year research, published at IEEE I2CACIS 2026)*
+Led the Real-Time Emergency Response module: predictive risk assessment, a nearest health facility locator (Google Maps API) and live teleconsultation (LiveKit WebRTC).
+`React Native` `TypeScript` `Node.js` `FastAPI` `MongoDB`
+
+**🚗 AutoCare Pro: Microservices Vehicle Service Center System**
+Architected four independent Node.js services behind an Nginx API gateway, documented with OpenAPI/Swagger and deployed on Azure Container Apps, with per-service CI/CD pipelines on GitHub Actions.
+`React` `Node.js` `Express` `PostgreSQL` `Docker` `Nginx` `GitHub Actions`
+
+**🪸 Coral Reef Bleaching Prediction** *(Group ML project, SLIIT)*
+Built a team pipeline predicting coral bleaching risk from 34,500+ records. I owned the XGBoost model (90.21% accuracy, 0.9683 ROC-AUC), and the four models vote in a Gradio app.
+`Python` `XGBoost` `scikit-learn` `Gradio` `pandas`
+
+**🔄 SwapThat: Product Bartering Platform** *(Internship, Studentpod)*
+Shipped cross-platform mobile features in React Native and TypeScript, including a swipe-based matching UI, listing flows and REST APIs for auth and match logic.
+`React Native` `TypeScript` `Node.js` `REST APIs`
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Githadii&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githadii&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="170" />
+</p>
+
+---
+
+<p align="center">Thanks for visiting. Feel free to reach out! 🚀</p>
