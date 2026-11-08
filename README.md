@@ -57,13 +57,6 @@ Shipped cross-platform mobile features in React Native and TypeScript, including
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Githadii&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Githadii&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-</p>
-
 ---
 
-<p align="center">Thanks for visiting. Feel free to reach out! 🚀</p>
+<p align="center">Thanks for visiting. Feel free to reach out! </p>
